@@ -1,0 +1,18 @@
+@import url('/node_modules/normalize-css/normalize.css');
+
+a{
+    text-decoration: none;
+}
+
+img {
+    vertical-align: middle;
+}
+
+li {
+    list-style: none;
+}
+
+
+input {
+    outline: none;
+}
